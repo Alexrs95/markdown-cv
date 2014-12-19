@@ -1,86 +1,99 @@
 ---
 layout: cv
-title: Eliseo Papa's CV
+title: Alejandro Rodríguez Salamanca's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Alejandro Rodríguez Salamanca
+Computer Science student.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page/a>
+<a href="alexrs95@gmail.com"><i class="fa fa-envelope-o fa-2x"></i> alexrs95@gmail.com</a> | <a href="https://github.com/Alexrs95/"><i class="fa fa-github fa-2x"></i> Alexrs95</a> | <i class="fa fa-mobile fa-2x"></i> +34 600 070 159 | 17-Oct-1995
 </div>
 
 
-## Currently
+## About me
 
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+I am a curious 19 year old Computer Science student. I have been always fascinated with technology and how it allows you to create new things from scratch. I am an enthusiast of open source projects and I try to contribute as much as possible publishing projects and libraries.
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+### University
 
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - 
-__Trinity College, Cambridge__
-
-- Fellow
+`2013 - 2017`
+Computer Science. Universidad Carlos III de Madrid, Madrid.
 
 
+## Experience
 
-## Awards
+### Internships
 
-`2012`
-President, *Royal Society*, London, UK
+`Summer 2014`
+__Android Developer Intern, Fever, Madrid.__
 
-Associate, *French Academy of Science*, Paris, France
+At Fever, I was in charge of helping to build a great app with more than 100.000 downloads fixing bugs, doing tests and implementing some new features. 
+
+### Apps
+
+`Summer 2013`
+__Series.ly Beta__
+
+Android app using the API of Series.ly, a well-known website in Spain that helps you track the series, movies and documentaries you see. It got more than 100.000 downloads on Play Store.
+
+`Summer 2012`
+__Androtalk / Androjuegos__
+
+Android apps for the blogs Androtalk.es and Androjuegos.com, with 5.000 downloads each and an average rate of 4.3
+
+### Blogger
+
+`Nov 2011-Now`
+__Collaborator in Androtalk and Androjuegos__
+
+Blogs dedicated to news and reviews related to Android: devices, apps and games.
+
+`Mar-Sep 2012`
+__Collaborator in Omicrono__
+
+A Blog about science and technology.
+
+## Technical Skills
+
+### Programming Languages
+
+`Basic Level`
+C, Assembly (MIPS)
+
+`Medium Level`
+Java
+
+### Operating Systems
+
+Mac OS X, Windows, Linux
 
 
+## Languages
 
-## Publications
+###Spanish
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+__Mother language__
 
-### Journals
+###English
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+__Medium__
 
 
-## Occupation
+## Hackathons
 
-`1600`
-__Royal Mint__, London
+`2013`
+Runner-up at Betabeers´ crowdfunding hackathon
 
-- Warden
-- Minted coins
+## Open Source Projects
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+I love open source because I have learnt a lot reading other's code. Because of this, I try to contribute as much as possible uploading my projects. The last one I have uploaded is [__RecyclerViewRenderers__](https://github.com/Alexrs95/RecyclerViewRenderers), an Android library that makes it easier to use different Views with different data using one single adapter
+
+
+## Interests
+
+Sports, music, science, technology, movies.
 
 
 
