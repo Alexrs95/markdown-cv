@@ -6,7 +6,7 @@ title: Alejandro Rodríguez Salamanca's CV
 Computer Science student.
 
 <div id="webaddress">
-<a href="alexrs95@gmail.com"><i class="fa fa-envelope-o fa-2x"></i> alexrs95@gmail.com</a> | <a href="https://github.com/Alexrs95/"><i class="fa fa-github fa-2x"></i> Alexrs95</a> | <i class="fa fa-mobile fa-2x"></i> +34 600 070 159 | 17-Oct-1995
+<a target="_blank" href="mailto:alexrs95@gmail.com"><i class="fa fa-envelope-o fa-2x"></i> alexrs95@gmail.com</a> | <a target="_blank" href="https://github.com/Alexrs95/"><i class="fa fa-github fa-2x"></i> Alexrs95</a> | <i class="fa fa-mobile fa-2x"></i> +34 600 070 159 | 17-Oct-1995
 </div>
 
 
@@ -19,7 +19,7 @@ I am a curious 19 year old Computer Science student. I have been always fascinat
 ### University
 
 `2013 - 2017`
-Computer Science. Universidad Carlos III de Madrid, Madrid.
+Computer Science. Universidad Carlos III de Madrid, Madrid. (Bilingual)
 
 
 ## Experience
