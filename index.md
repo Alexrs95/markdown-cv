@@ -18,7 +18,7 @@ I am a curious 19 year old Computer Science student. I have been always fascinat
 
 ### University
 
-`2013 - 2017`
+`2013 - `
 Computer Science. Universidad Carlos III de Madrid, Madrid. (Bilingual)
 
 
@@ -29,14 +29,14 @@ Computer Science. Universidad Carlos III de Madrid, Madrid. (Bilingual)
 `Summer 2014`
 __Android Developer Intern, Fever, Madrid.__
 
-At Fever, I was in charge of helping to build a great app with more than 100.000 downloads fixing bugs, doing tests and implementing some new features. 
+At Fever, I was in charge of helping to build a great app with more than 250.000 downloads fixing bugs, doing tests and implementing some new features. 
 
 ### Apps
 
 `Summer 2013`
 __Series.ly Beta__
 
-Android app using the API of Series.ly, a well-known website in Spain that helps you track the series, movies and documentaries you see. It got more than 100.000 downloads on Play Store.
+Android app using the API of Series.ly, a well-known website in Spain that helps you track the series, movies and documentaries you see. It got more than 150.000 downloads on Play Store.
 
 `Summer 2012`
 __Androtalk / Androjuegos__
