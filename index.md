@@ -36,7 +36,7 @@ At Fever, I was in charge of helping to build a great app with more than 250.000
 `Summer 2013`
 __Series.ly Beta__
 
-Android app using the API of Series.ly, a well-known website in Spain that helps you track the series, movies and documentaries you see. It got more than 150.000 downloads on Play Store.
+Android app which I developed using the API of Series.ly, a well-known website in Spain that helps you track the series, movies and documentaries you see. It got more than 115.000 downloads on Play Store.
 
 `Summer 2012`
 __Androtalk / Androjuegos__
@@ -85,6 +85,9 @@ __Medium__
 
 `2013`
 Runner-up at Betabeers´ crowdfunding hackathon
+
+`Jan 2015`
+Winner at HackathonLovers´ culture and payments hackathon
 
 ## Open Source Projects
 
