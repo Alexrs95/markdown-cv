@@ -21,22 +21,28 @@ I am a curious 19 year old Computer Science student. I have been always fascinat
 `2013 - `
 Computer Science. Universidad Carlos III de Madrid, Madrid. (Bilingual)
 
-
 ## Experience
 
 ### Internships
 
 `Summer 2014`
+
+`Summer 2015`
 __Android Developer Intern, Fever, Madrid.__
 
-At Fever, I was in charge of helping to build a great app with more than 250.000 downloads fixing bugs, doing tests and implementing some new features. 
+At Fever, I was in charge of helping to build a great app with more than 2 million downloads fixing bugs, doing tests and implementing some new features. 
 
 ### Apps
+
+`Jan 2015`
+__T3chFest__
+
+T3chFest is an event celebrated every year in the Universidad Carlos III de Madrid. I was in charge of build the app of the event with information about the talks, the location...
 
 `Summer 2013`
 __Series.ly Beta__
 
-Android app which I developed using the API of Series.ly, a well-known website in Spain that helps you track the series, movies and documentaries you see. It got more than 115.000 downloads on Play Store.
+Android app which I developed using the API of Series.ly, a website that helps you track the series, movies and documentaries you see. It got more than 115.000 downloads on Play Store.
 
 `Summer 2012`
 __Androtalk / Androjuegos__
@@ -53,14 +59,14 @@ Blogs dedicated to news and reviews related to Android: devices, apps and games.
 `Mar-Sep 2012`
 __Collaborator in Omicrono__
 
-A Blog about science and technology.
+Blog about science and technology.
 
 ## Technical Skills
 
 ### Programming Languages
 
 `Basic Level`
-C, Assembly (MIPS)
+C, Assembly (MIPS), Python
 
 `Medium Level`
 Java
@@ -68,7 +74,6 @@ Java
 ### Operating Systems
 
 Mac OS X, Windows, Linux
-
 
 ## Languages
 
@@ -80,7 +85,6 @@ __Mother language__
 
 __Medium__
 
-
 ## Hackathons
 
 `2013`
@@ -91,8 +95,7 @@ Winner at HackathonLovers´ culture and payments hackathon
 
 ## Open Source Projects
 
-I love open source because I have learnt a lot reading other's code. Because of this, I try to contribute as much as possible uploading my projects. The last one I have uploaded is [__RecyclerViewRenderers__](https://github.com/Alexrs95/RecyclerViewRenderers), an Android library that makes it easier to use different Views with different data using one single adapter
-
+I love open source because I have learnt a lot reading other's code. Because of this, I try to contribute as much as possible uploading [my projects.](https://github.com/Alexrs95/)
 
 ## Interests
 
@@ -102,6 +105,6 @@ Sports, music, science, technology, movies.
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: Sep 2015 -->
 
 
