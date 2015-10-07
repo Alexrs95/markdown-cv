@@ -54,7 +54,7 @@ table {
 body {
 	font: normal normal 400;
 	font-size: 10pt;
-	line-height: 1.1em;
+	line-height: 1.2em;
 	/*also written as...  font: normal normal 400 100%/1.5em;*/
 	font-family: Verdana,sans-serif;
 	/*margin-top: 1em;
@@ -66,7 +66,6 @@ p {
 	left: 28%;
 	margin-bottom: 0.2em;
 	margin-right: 0;
-	margin-left: 1em;
 	width: 70%;
 }
 
@@ -81,6 +80,7 @@ code {
 p code {
 	position: absolute;
 	left: -11%;
+	margin-bottom: 5%;
 }
 
 
@@ -88,16 +88,9 @@ ul {
 	position: relative;
 	left: 28%;
 	width: 65%;
-	margin-bottom: 1em;
+	margin-bottom: 0.7em;
 	/*margin-top: -0.5em;*/
 }
-
-/*uncomment to get dashes in the list*/
-/*li:before {
-	content: "-";
-	position: relative;
-	left: -0.25em;
-}*/
 
 li {
 	/*second line indent*/
@@ -121,8 +114,8 @@ h1,h2,h3,h4 {
 
 h1 {
 	text-align: left;
-	font-size: 2.3em;
-	line-height: 1em;
+	font-size: 2.5em;
+	line-height: 0.75em;
 	position: relative;
 	left: 28%;
 }
@@ -135,24 +128,24 @@ h1+p {
 
 h2 {
 	font-size: 1.1em;
-	color: #2b862b;
-	margin-top: 1.5em;
+	color: #459700;
+	margin-top: 1.75em;
 	position: relative;
-	top: 1.2em;
+	top: 0.75em;
 	text-align: right;
 	width: 18%;
 }
 
 h2+p {
-	margin-top: 1.5em;
+	margin-top: 2.2em;
 }
 
 h3 {
-	font-size: 1em;
-	line-height: 2em; 
+	font-size: 0.8em;
+	line-height: 1.75em; 
 	color: #ccc;
 	position: relative;
-	top: 1.2em;
+	top: 1.3em;
 	text-align: right;
 	width: 18%;
 }
@@ -167,7 +160,7 @@ a:hover {
 }
 
 #webaddress {
-	margin-top: 1em;
+	margin-top: 0.75em;
 	position: relative;
 	left: 28%;
 	color: #ccc;
@@ -192,7 +185,3 @@ strong {
 	display: none;
 	visibility: hidden;
 }
-
-
-
-
